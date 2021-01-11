@@ -3,11 +3,13 @@ import "./App.css";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import Name from './components/Name';
 
 function App() {
   return (
     <Router>
       <div className="App">
+      <Name/>
         <Wrapper></Wrapper>
         <Footer />
       </div>
