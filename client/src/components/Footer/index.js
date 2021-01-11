@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>Roberts 2020</span>
+      <span>Roberts Wedding 2020</span>
     </footer>
   );
 }
