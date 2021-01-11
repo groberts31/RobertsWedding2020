@@ -3,13 +3,15 @@ import "./App.css";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Name from './components/Name';
+import Name from "./components/Name";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <Router>
       <div className="App">
-      <Name/>
+        <Name />
+        <Navbar />
         <Wrapper></Wrapper>
         <Footer />
       </div>
