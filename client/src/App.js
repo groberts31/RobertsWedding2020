@@ -15,6 +15,7 @@ function App() {
       <div className="App">
         <Name />
         <Navbar />
+        <div className="clearfix"></div>
         <Wrapper>
         <Route exact path="/" component={Home} />
           <Route exact path="/home" component={Home} />

@@ -1,8 +1,10 @@
 .navigation {
     float: right;
-    background-color: grey;
+    background-color: transparent;
   }
   
   a {
     color: black;
+    font-weight: bold;
+    font-size: 30px;
   }

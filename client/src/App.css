@@ -1,8 +1,10 @@
-/* .App {
+.App {
   text-align: center;
+  background-color: lightgrey;
+  /* background-image: url(./images/fam1.png); */
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
