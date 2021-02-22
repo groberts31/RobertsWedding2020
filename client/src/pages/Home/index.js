@@ -3,6 +3,7 @@ import "./style.css";
 import Container from "../../components/Container";
 import Row from "../../components/Row";
 import Col from "../../components/Col";
+import imageCompression from "browser-image-compression";
 
 function Home() {
   return (
@@ -18,7 +19,7 @@ function Home() {
           <Row>
             <Col>
               <div className="card cardInfo">
-                <img className="card-img-top" src="./fam1.png" alt="Card" />
+                <img className="card-img-top" src="./fam1.png" alt="Fam1" />
                 <div className="card-body">
                   <h4 className="card-title">Gregory Roberts</h4>
                 </div>
