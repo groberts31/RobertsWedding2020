@@ -4,7 +4,8 @@
     background-color: transparent;
 }
 .cardInfo {
-    background-color: lightgray;
+    background-color: white;
+    /* background-image: url("./fam1.png"); */
     border: 2pt solid black;
     border-radius: 30px;
     width: 60%;
@@ -13,5 +14,5 @@
 }
 
 #header1 {
-    color: white;
+    color: black;
 }
