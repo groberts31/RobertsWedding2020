@@ -17,33 +17,16 @@ function Home() {
           <br />
           <Row>
             <Col>
-              <div className="card cardInfo">
+              <div className="card cardInfo cardPic1">
                 <div className="card-body">
-                  <h4 className="card-title"><a href="../Greg/index.js">Gregory Roberts</a></h4>
+                  <h4 className="card-title"><a href="../Greg">Gregory Roberts</a></h4>
                 </div>
               </div>
             </Col>
             <Col>
-              <div className="card cardInfo">
+              <div className="card cardInfo cardPic2">
                 <div className="card-body">
-                  <h4 className="card-title"><a href="">Kirsten Roberts</a></h4>
-                </div>
-              </div>
-            </Col>
-          </Row>
-          <br />
-          <Row>
-            <Col>
-              <div className="card cardInfo">
-                <div className="card-body">
-                  <h4 className="card-title"><a href="">Elijah Roberts</a></h4>
-                </div>
-              </div>
-            </Col>
-            <Col>
-              <div className="card cardInfo">
-                <div className="card-body">
-                  <h4 className="card-title"><a href="">Elissa Sinclair</a></h4>
+                  <h4 className="card-title"><a href="../Kirsten">Kirsten Roberts</a></h4>
                 </div>
               </div>
             </Col>
@@ -51,16 +34,33 @@ function Home() {
           <br />
           <Row>
             <Col>
-              <div className="card cardInfo">
+              <div className="card cardInfo cardPic3">
                 <div className="card-body">
-                  <h4 className="card-title"><a href="">Aaron Roberts</a></h4>
+                  <h4 className="card-title"><a href="../Elijah">Elijah Roberts</a></h4>
                 </div>
               </div>
             </Col>
             <Col>
-              <div className="card cardInfo">
+              <div className="card cardInfo cardPic4">
                 <div className="card-body">
-                  <h4 className="card-title"><a href="">Chloe Roberts</a></h4>
+                  <h4 className="card-title"><a href="../Elissa">Elissa Sinclair</a></h4>
+                </div>
+              </div>
+            </Col>
+          </Row>
+          <br />
+          <Row>
+            <Col>
+              <div className="card cardInfo cardPic5">
+                <div className="card-body">
+                  <h4 className="card-title"><a href="../Aaron">Aaron Roberts</a></h4>
+                </div>
+              </div>
+            </Col>
+            <Col>
+              <div className="card cardInfo cardPic6">
+                <div className="card-body">
+                  <h4 className="card-title"><a href="../Chloe">Chloe Roberts</a></h4>
                 </div>
               </div>
             </Col>
